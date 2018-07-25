@@ -1,2 +1,3 @@
-# 1_DevelopmentToolsStudy
-Development Tools Study
+# DevelopmentToolsStudy
+Development Tools Study.  
+Include: Markdown, Git
