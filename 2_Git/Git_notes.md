@@ -8,4 +8,5 @@
 ### Git attention points
 
 * .gitignore: GitHub 有一个十分详细的针对数十种项目及语言的 [.gitignore 文件列表](https://github.com/github/gitignore)，可供参考和使用。
+* [git 换行符LF与CRLF转换问题](https://www.cnblogs.com/sdgf/p/6237847.html)
 
